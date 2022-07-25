@@ -33,7 +33,7 @@ exclude_modules
    applications) and values being lists of Python modules to not freeze into the
    application regardless of whether FreezeTool detects it as a dependency
 log_filename
-   If specifies, all of the output (such as print statemetns and error messages)
+   If specifies, all of the output (such as print statements and error messages)
    is written to a file. The ``$USER_APPDATA/`` prefix can be used to write
    refer to the AppData directory of the current user.
 log_append
